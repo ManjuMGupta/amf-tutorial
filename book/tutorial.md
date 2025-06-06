@@ -71,7 +71,7 @@ use.action(
 :::
 
 
-![image](https://github.com/user-attachments/assets/e2e126e6-429b-4b21-a5e1-c713f62d0c97)
+
 
 # Denoising Using DADA2
 :::{describe-usage}
